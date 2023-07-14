@@ -13,6 +13,6 @@ Below are instructions
     cd path_to_cloned_repo
     source setup.sh
     ```
-3. If not automatically selected, in your notebook viewing application, set your Python kernel as `env/bin/python`. And restart before running.
+3. If not automatically selected, in your notebook viewing application, set your Python interpreter as `env/bin/python`. And restart before running.
 
 4. Run in your notebook viewing app (preferably multiple times if you hit a local minimum) (:
